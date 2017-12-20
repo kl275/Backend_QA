@@ -1,0 +1,13 @@
+{
+   "FE":{ "dev" :{"ip": "192.168.1.5", "username": "Dhruv", "pass": "Stock123"},
+   	   "qa" :{"ip": "192.168.1.15", "username": "Dhruv", "pass": "Stock123"},
+	   "prod" :{"ip": "192.168.1.25", "username": "Dhruv", "pass": "Stock123"} },
+  
+   "BE":{ "dev" :{"ip": "192.168.1.6", "username": "kevv", "pass": "password"},
+          "qa" :{"ip": "192.168.1.16", "username": "kevv", "pass": "password"},
+          "prod" :{"ip": "192.168.1.26", "username": "kevv", "pass": "password"} },
+  
+   "API":{ "dev" :{"ip": "192.168.1.2", "username": "dhruv", "pass": "dhruv"},
+           "qa" :{"ip": "192.168.1.12", "username": "dhruv", "pass": "dhruv"},
+           "prod" :{"ip": "192.168.1.22", "username": "dhruv", "pass": "dhruv"} }
+}
